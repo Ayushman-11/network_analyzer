@@ -56,7 +56,7 @@ lib/
 
 ## 🔮 Roadmap
 
-- [-] Core features (scanner, detection, insights)
+- [x] Core features (scanner, detection, insights)
 - [ ] Add real-time alerts with notifications
 - [ ] Integrate machine learning for anomaly detection
 - [ ] Exportable reports
