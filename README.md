@@ -68,8 +68,8 @@ lib/
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/network-analyzer-app.git
-   cd network-analyzer-app
+   git clone https://github.com/Ayushman-11/network_analyzer.git
+   cd network_analyzer
    ```
 
 2. Install dependencies:
