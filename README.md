@@ -1,13 +1,6 @@
-Here’s a clean and beautiful GitHub README template for your network analyzer app. You can copy and paste this directly into your README.md file, and customize the emojis or sections as needed:
-
----
-
 # 🌐 Network Analyzer App
 
 A smart and intuitive tool for real-time network performance monitoring and threat detection.
-
-![banner](https://your-image-link-here.com) <!-- Optional: Add a banner image here -->
-
 ---
 
 ## 📌 Overview
